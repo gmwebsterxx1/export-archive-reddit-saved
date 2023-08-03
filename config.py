@@ -1,7 +1,7 @@
-client_id='clientid here'
-client_secret='client secret here'
-user_agent='user agent here'
-username='username here'
-password='password here'
+client_id='x7hedevilx'
+client_secret='	YqQmGoT34zKBs_wMpnST9r-CraqSRA'
+user_agent='Saved posts scraper by /x7hedevilx '
+username='watershed600rr'
+password='MilesNora100'
 # optionally set a custom save directory below
-#savedir='your custom directory here'
+#savedir='C:\Users\water\OneDrive\Documents\GitHub\MINGW-packages\export-archive-reddit-saved'
