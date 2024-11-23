@@ -4,11 +4,11 @@ from praw.models import Submission
 from praw.models import Comment
 
 #importing configs and PRAW
-reddit = praw.Reddit(client_id=config.client_id,
-                     client_secret=config.client_secret,
-                     user_agent=config.user_agent,
-                     username=config.username,
-                     password=config.password)
+reddit = praw.Redditclient_id='x7hedevilx'
+client_secret='	YqQmGoT34zKBs_wMpnST9r-CraqSRA'
+user_agent='Saved posts scraper by /x7hedevilx '
+username='watershed600rr'
+password='MilesNora100'
 
 #Functions
 def Head_tag(data,num):
